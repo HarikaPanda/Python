@@ -1,6 +1,6 @@
 # Orderxml.py
   ## Desc
-    Generate xmls with 
+    Generate xmls
   ## Input 
      Sample.xml with GUID, FromDate,ToDate,RefNum,
      Number of files to be generated
